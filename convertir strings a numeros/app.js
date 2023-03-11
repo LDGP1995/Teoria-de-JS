@@ -47,7 +47,7 @@ console.log(dato.toFixed(2));//puedes poner cuantos lugares despues de la coma q
 
 dato="12345.67890";
 console.log(parseInt(dato).toFixed (3));//pone 3 ceros despues de la coma
-console.log(parseFloat(dato).toFixed (3));//pone 3 valores 678
+console.log(parseFloat(dato).toFixed (3));//pone 3 valores 
 
 
 

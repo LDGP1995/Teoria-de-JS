@@ -38,7 +38,7 @@ console.log(dato.length);//devuelve 5, cuenta las comas
 dato=20; 
 dato=true;
 dato=[1,2,3,4];
-dato=null;
+//dato=null; null da error pues null no existe al igual q undefined
 dato=dato.toString();
 console.log(typeof dato);
 console.log(dato);
